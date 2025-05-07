@@ -1,0 +1,8 @@
+moviepy==1.0.3  
+numpy==1.24.0  
+torch==2.0.1  
+imageio==2.36.1  
+pillow==9.2.0  
+tqdm==4.64.0  
+opencv-python==4.5.5.62  
+typing-extensions==4.10.0
